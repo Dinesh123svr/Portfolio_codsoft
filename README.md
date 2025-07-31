@@ -16,7 +16,7 @@ This is my personal portfolio website built using **HTML** and **CSS**, designed
 - Skills showcase
 - Projects with links
 - Contact information
-- Hosted on GitHub Pages
+- Hosted on GitHub pages
 
 ---
 
