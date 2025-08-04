@@ -18,7 +18,7 @@ This is my personal portfolio website built using **HTML** and **CSS**, designed
 - Contact information
 - Hosted on GitHub pages
 
----
+-----
 
 ## 🚀 Technologies Used
 
